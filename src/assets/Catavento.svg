@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700.776" height="800.816" viewBox="0 0 700.776 800.816">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-3 {
+        fill: rgba(255,255,255,0);
+      }
+
+      .cls-4, .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        filter: url(#Elipse_3);
+      }
+
+      .cls-7 {
+        filter: url(#Caminho_57);
+      }
+
+      .cls-8 {
+        filter: url(#Caminho_56);
+      }
+
+      .cls-9 {
+        filter: url(#Caminho_26);
+      }
+
+      .cls-10 {
+        filter: url(#Caminho_28);
+      }
+    </style>
+    <filter id="Caminho_28" x="290.047" y="362.157" width="137.956" height="438.659" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.859"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_26" x="309.674" y="0" width="73.478" height="359.78" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-2"/>
+      <feFlood flood-opacity="0.839"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_56" x="36.731" y="348.522" width="329.308" height="238.227" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-3"/>
+      <feFlood flood-opacity="0.839"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_57" x="333.732" y="348.522" width="329.308" height="238.227" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-4"/>
+      <feFlood flood-opacity="0.839"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_3" x="303.674" y="315.897" width="99" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur-5"/>
+      <feFlood flood-opacity="0.788"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Catavento" transform="translate(-301.826 -1207.603)">
+    <g class="cls-10" transform="matrix(1, 0, 0, 1, 301.83, 1207.6)">
+      <path id="Caminho_28-2" data-name="Caminho 28" class="cls-1" d="M16.107,0H54.893c4.284,0,7.757,1.412,7.757,3.154L87.066,393.5c0,1.742-3.473,3.154-7.757,3.154H-1.132c-4.284,0-7.757-1.412-7.757-3.154L8.35,3.154C8.35,1.412,11.823,0,16.107,0Z" transform="translate(314.94 378.16)"/>
+    </g>
+    <g id="Grupo_50" data-name="Grupo 50">
+      <g id="Caminho_25" data-name="Caminho 25" class="cls-2" transform="translate(301.826 1571.36) rotate(-90)">
+        <path class="cls-4" d="M 20.36000633239746 318.7803955078125 L 10.03639030456543 318.7803955078125 L 5.20717191696167 302.6271667480469 L 5.147463798522949 302.4274597167969 L 5.047838687896729 302.2443237304688 L -10.07461929321289 274.4439697265625 L 12.92700386047363 3.2978835105896 L 20.36000633239746 2.289591550827026 L 20.36000633239746 318.7803955078125 Z"/>
+        <path class="cls-5" d="M 18.36001205444336 4.579193115234375 L 14.78436851501465 5.064208984375 L -8.031074523925781 274.0152587890625 L 6.80473804473877 301.2886657714844 L 7.003965377807617 301.6548461914063 L 7.123374938964844 302.0542907714844 L 11.52591896057129 316.7803649902344 L 18.36001205444336 316.7803649902344 L 18.36001205444336 4.579193115234375 M 22.36001205444336 3.0517578125e-05 L 22.36001205444336 320.7803649902344 L 8.546829223632813 320.7803649902344 L 3.290965557098389 303.2000122070313 L -12.1181697845459 274.8726501464844 L 11.06969261169434 1.531463623046875 L 22.36001205444336 3.0517578125e-05 Z"/>
+      </g>
+      <g class="cls-9" transform="matrix(1, 0, 0, 1, 301.83, 1207.6)">
+        <path id="Caminho_26-2" data-name="Caminho 26" class="cls-1" d="M23.188,1.532,34.478,0V320.78H20.665L15.409,303.2,0,274.873Z" transform="translate(326.17 15.5)"/>
+      </g>
+      <g id="Caminho_27" data-name="Caminho 27" class="cls-2" transform="translate(681.821 1583.479) rotate(-90)">
+        <path class="cls-4" d="M 32.47850799560547 318.4906921386719 L 25.04541969299316 317.4824523925781 L 2.043550491333008 46.33639907836914 L 17.16617393493652 18.53609466552734 L 17.26579856872559 18.35297012329102 L 17.32550811767578 18.15326118469238 L 22.15472602844238 2.000011682510376 L 32.47850799560547 2.000011682510376 L 32.47850799560547 318.4906921386719 Z"/>
+        <path class="cls-5" d="M 30.47853088378906 316.2010803222656 L 30.47853088378906 4.000000476837158 L 23.64429664611816 4.000000476837158 L 19.24171257019043 18.72613716125488 L 19.1223030090332 19.12559127807617 L 18.92307662963867 19.49181938171387 L 4.087090015411377 46.76512145996094 L 26.90275382995605 315.7160339355469 L 30.47853088378906 316.2010803222656 M 34.47853088378906 320.7802734375 L 23.18807601928711 319.248779296875 L -1.491477269155439e-05 45.90768051147461 L 15.40930366516113 17.58041000366211 L 20.66521263122559 3.551136558144208e-07 L 34.47853088378906 3.551136558144208e-07 L 34.47853088378906 320.7802734375 Z"/>
+      </g>
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, 301.83, 1207.6)">
+        <path id="Caminho_56-2" data-name="Caminho 56" class="cls-1" d="M23.188,1.532,34.479,0V320.78H20.665L15.409,303.2,0,274.872Z" transform="translate(71.5 563.25) rotate(-122)"/>
+      </g>
+      <g class="cls-7" transform="matrix(1, 0, 0, 1, 301.83, 1207.6)">
+        <path id="Caminho_57-2" data-name="Caminho 57" class="cls-1" d="M23.188,319.249l11.29,1.532V0H20.665L15.409,17.58,0,45.908Z" transform="matrix(0.53, -0.85, 0.85, 0.53, 350.23, 393.26)"/>
+      </g>
+      <path id="Caminho_54" data-name="Caminho 54" class="cls-3" d="M23.188,319.249l11.29,1.531V0H20.665L15.409,17.58,0,45.908Z" transform="translate(635 1594.103)"/>
+    </g>
+    <g class="cls-6" transform="matrix(1, 0, 0, 1, 301.83, 1207.6)">
+      <circle id="Elipse_3-2" data-name="Elipse 3" class="cls-1" cx="33" cy="33" r="33" transform="translate(317.17 325.4)"/>
+    </g>
+  </g>
+</svg>

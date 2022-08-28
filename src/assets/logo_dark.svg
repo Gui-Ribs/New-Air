@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="782.681" height="456.573" viewBox="0 0 782.681 456.573">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2a2a2a;
+      }
+
+      .cls-2 {
+        font-size: 118px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        filter: url(#Caminho_12);
+      }
+
+      .cls-6 {
+        filter: url(#Caminho_10-2);
+      }
+
+      .cls-7 {
+        filter: url(#Caminho_11);
+      }
+
+      .cls-8 {
+        filter: url(#Caminho_10);
+      }
+    </style>
+    <filter id="Caminho_10" x="0" y="0" width="149.774" height="235.884" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur"/>
+      <feFlood flood-opacity="0.729"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_11" x="2" y="220.688" width="149.774" height="235.884" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="-4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur-2"/>
+      <feFlood flood-opacity="0.729"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_10-2" x="138.671" y="0" width="149.774" height="235.885" filterUnits="userSpaceOnUse">
+      <feOffset dx="-6" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur-3"/>
+      <feFlood flood-opacity="0.729"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_12" x="136.671" y="220.688" width="149.774" height="235.884" filterUnits="userSpaceOnUse">
+      <feOffset dx="-8" dy="-4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur-4"/>
+      <feFlood flood-opacity="0.729"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="logo_dark" transform="translate(-102.319 -48.981)">
+    <g id="Grupo_8" data-name="Grupo 8" transform="translate(53 0)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, 49.32, 48.98)">
+        <g id="Caminho_10-3" data-name="Caminho 10" class="cls-1" transform="translate(10.5 12.5)">
+          <path class="cls-3" d="M 116.1739044189453 202.2844696044922 L 1.037652015686035 202.2844696044922 L 116.1739044189453 2.245257377624512 L 116.1739044189453 202.2844696044922 Z"/>
+          <path class="cls-4" d="M 115.5739059448242 4.490447998046875 L 2.07525634765625 201.6844635009766 L 115.5739059448242 201.6844635009766 L 115.5739059448242 4.490447998046875 M 116.7739028930664 0 L 116.7739028930664 202.8844604492188 L 7.62939453125e-06 202.8844604492188 L 116.7739028930664 0 Z"/>
+        </g>
+      </g>
+      <g class="cls-7" transform="matrix(1, 0, 0, 1, 49.32, 48.98)">
+        <g id="Caminho_11-2" data-name="Caminho 11" class="cls-1" transform="translate(10.5 241.19)">
+          <path class="cls-3" d="M 116.1739044189453 200.6392059326172 L 1.037652015686035 0.5999934077262878 L 116.1739044189453 0.5999934077262878 L 116.1739044189453 200.6392059326172 Z"/>
+          <path class="cls-4" d="M 115.5739059448242 198.3940124511719 L 115.5739059448242 1.199993371963501 L 2.075254678726196 1.199993371963501 L 115.5739059448242 198.3940124511719 M 116.7739028930664 202.8844604492188 L 7.89280966273509e-06 -6.6174957282783e-06 L 116.7739028930664 -6.6174957282783e-06 L 116.7739028930664 202.8844604492188 Z"/>
+        </g>
+      </g>
+      <g class="cls-6" transform="matrix(1, 0, 0, 1, 49.32, 48.98)">
+        <g id="Caminho_10-4" data-name="Caminho 10" class="cls-1" transform="translate(161.17 12.5)">
+          <path class="cls-3" d="M 115.7362594604492 202.2844848632813 L 0.6000078916549683 202.2844848632813 L 0.6000078916549683 2.245272636413574 L 115.7362594604492 202.2844848632813 Z"/>
+          <path class="cls-4" d="M 1.200004577636719 4.490463256835938 L 1.200004577636719 201.6844787597656 L 114.6986541748047 201.6844787597656 L 1.200004577636719 4.490463256835938 M 7.62939453125e-06 1.52587890625e-05 L 116.7739028930664 202.8844757080078 L 7.62939453125e-06 202.8844757080078 L 7.62939453125e-06 1.52587890625e-05 Z"/>
+        </g>
+      </g>
+      <g class="cls-5" transform="matrix(1, 0, 0, 1, 49.32, 48.98)">
+        <g id="Caminho_12-2" data-name="Caminho 12" class="cls-1" transform="translate(161.17 241.19)">
+          <path class="cls-3" d="M 0.6000078916549683 200.6392059326172 L 0.6000078916549683 0.6000010371208191 L 115.7362594604492 0.6000010371208191 L 0.6000078916549683 200.6392059326172 Z"/>
+          <path class="cls-4" d="M 1.200007915496826 198.3940124511719 L 114.6986541748047 1.200001001358032 L 1.200007915496826 1.200001001358032 L 1.200007915496826 198.3940124511719 M 7.89280966273509e-06 202.8844757080078 L 7.89280966273509e-06 1.011898575598025e-06 L 116.7739028930664 1.011898575598025e-06 L 7.89280966273509e-06 202.8844757080078 Z"/>
+        </g>
+      </g>
+    </g>
+    <text id="New_Air" data-name="New Air" class="cls-2" transform="translate(661 326)"><tspan x="-223.612" y="0">NEW AIR</tspan></text>
+  </g>
+</svg>
